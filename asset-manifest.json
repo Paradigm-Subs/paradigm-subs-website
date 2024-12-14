@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paradigm-subs-website/static/css/main.40c485bb.css",
+    "main.js": "/paradigm-subs-website/static/js/main.d49dd10c.js",
+    "index.html": "/paradigm-subs-website/index.html",
+    "main.40c485bb.css.map": "/paradigm-subs-website/static/css/main.40c485bb.css.map",
+    "main.d49dd10c.js.map": "/paradigm-subs-website/static/js/main.d49dd10c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40c485bb.css",
+    "static/js/main.d49dd10c.js"
+  ]
+}
